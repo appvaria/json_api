@@ -5,11 +5,14 @@
         {
    "id":"1",
    "question":"What is the square of the square root of 2?",
-   "answer":"2"},
+   "answer":"2",
+            "time":"10"
+        },
        {
    "id":"2",
    "question":"2What is the square of the square root of 2?",
-   "answer":"2"}
+   "answer":"2",
+       "time":"20"}
     
        ]
 }
