@@ -4,15 +4,59 @@
         [
         {
    "id":"1",
-   "question":"What is the square of the square root of 2?",
-   "answer":"2",
-            "time":"100000"
+   "question":"What is 2 to the power of 3?",
+   "answer":"8",
+            "time":"5000"
         },
        {
    "id":"2",
-   "question":"2What is the square of the square root of 2?",
+   "question":"What is the sin 0?",
    "answer":"0",
-       "time":"200000"}
+       "time":"10000"},
+            {
+   "id":"3",
+   "question":"What is the tan 45?",
+   "answer":"1",
+            "time":"10000"
+        },
+       {
+   "id":"4",
+   "question":"What is the square of 2?",
+   "answer":"4",
+       "time":"10000"},
+            {
+   "id":"5",
+   "question":"What is the square of tan 45?",
+   "answer":"1",
+            "time":"10000"
+        },
+       {
+   "id":"6",
+   "question":"What is the square of the square root of 2?",
+   "answer":"2",
+       "time":"20000"},
+            {
+   "id":"7",
+   "question":"What is the log of 1000?",
+   "answer":"3",
+            "time":"20000"
+        },
+       {
+   "id":"8",
+   "question":"What is the arcsin pi/6?",
+   "answer":"0.5",
+       "time":"22000"},
+            {
+   "id":"9",
+   "question":"What is the arctan 0?",
+   "answer":"0",
+            "time":"25000"
+        },
+       {
+   "id":"2",
+   "question":"What is the coefficient differentiation of log2x??",
+   "answer":"1",
+       "time":"30000"}
     
        ]
 }
