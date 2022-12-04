@@ -5,57 +5,110 @@
         {
    "id":"1",
    "question":"What is 2 to the power of 3?",
-   "answer":"8",
+   "c_answer":"8",
+           "answer1":"1",
+           "answer2":"8",
+           "answer3":"5",
+           "answer4":"9",
+            
+            
+            
+            
             "time":"5000"
         },
        {
    "id":"2",
    "question":"What is the sin 0?",
-   "answer":"0",
+   "c_answer":"0",
+             "answer1":"1",
+           "answer2":"14",
+           "answer3":"0",
+           "answer4":"6",
+            
        "time":"10000"},
             {
    "id":"3",
    "question":"What is the tan 45?",
-   "answer":"1",
+   "c_answer":"1",
+                  "answer1":"1",
+           "answer2":"4",
+           "answer3":"2",
+           "answer4":"9",
+            
             "time":"10000"
         },
        {
    "id":"4",
    "question":"What is the square of 2?",
-   "answer":"4",
+   "c_answer":"4",
+             "answer1":"4",
+           "answer2":"8",
+           "answer3":"2",
+           "answer4":"0",
+            
        "time":"10000"},
             {
    "id":"5",
    "question":"What is the square of tan 45?",
-   "answer":"1",
+   "c_answer":"1",
+                  "answer1":"0",
+           "answer2":"3",
+           "answer3":"2",
+           "answer4":"1",
+            
             "time":"10000"
         },
        {
    "id":"6",
    "question":"What is the square of the square root of 2?",
-   "answer":"2",
+   "c_answer":"2",
+             "answer1":"1",
+           "answer2":"2",
+           "answer3":"5",
+           "answer4":"4",
+            
        "time":"20000"},
             {
    "id":"7",
    "question":"What is the log of 1000?",
-   "answer":"3",
+   "c_answer":"3",
+                  "answer1":"3",
+           "answer2":"0",
+           "answer3":"5",
+           "answer4":"9",
+            
             "time":"20000"
         },
        {
    "id":"8",
    "question":"What is the arcsin pi/6?",
-   "answer":"0.5",
+   "c_answer":"0.5",
+             "answer1":"1",
+           "answer2":"1.5",
+           "answer3":"0.5",
+           "answer4":"9",
+            
        "time":"22000"},
             {
    "id":"9",
    "question":"What is the arctan 0?",
-   "answer":"0",
+   "c_answer":"0",
+                  "answer1":"1",
+           "answer2":"8",
+           "answer3":"0",
+           "answer4":"9",
+            
             "time":"25000"
         },
        {
    "id":"10",
    "question":"What is the coefficient differentiation of log2x??",
-   "answer":"1",
+   "c_answer":"1",
+             "answer1":"1",
+           "answer2":"8",
+           "answer3":"7",
+           "answer4":"9",
+            
        "time":"30000"}
     
        ]
